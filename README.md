@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-github.png" alt="GitHub Banner" width="100%">
+</p>
+
 <div align="center">
 
 # Hi, I'm Emanuel José Melo Flórez 👋
