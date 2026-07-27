@@ -6,39 +6,58 @@
 
 # Emanuel José Melo Flórez
 
-### UI Developer • Frontend Developer
+### UI Developer • Frontend Developer • Systems Support Technician
 
 **Building modern web experiences through clean architecture, thoughtful design, and user-centered solutions.**
 
-[LinkedIn](https://www.linkedin.com/in/emanuel-josé-melo-flórez-308a723b3) •
-[Email](mailto:emanuelmelowork16@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/emanuel-josé-melo-flórez-308a723b3">LinkedIn</a> •
+  <a href="mailto:emanuelmelowork16@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-I'm a **UI Developer** and **Frontend Developer** based in Bogotá, Colombia, passionate about understanding how web technologies work and transforming ideas into intuitive, scalable, and high-quality digital experiences.
+I'm a **UI Developer**, **Frontend Developer**, and **Systems Support Technician** based in Bogotá, Colombia.
 
-I enjoy building interfaces where design, functionality, and performance work together seamlessly. Beyond writing code, I'm interested in creating maintainable architectures, improving user experience, and collaborating with teams to deliver meaningful products.
+I enjoy understanding how technology works and transforming ideas into intuitive, scalable, and high-quality digital experiences.
 
-I learn quickly, adapt easily to new technologies and environments, and continuously seek opportunities to improve both technically and professionally.
+My background in **Systems Support** combined with my **Full Stack** education allows me to approach software development from a broader perspective, understanding both technical infrastructure and modern frontend development.
 
----
+I enjoy building interfaces where design, functionality, accessibility, and performance work together seamlessly. I'm passionate about writing clean, maintainable code, improving user experience, and collaborating with multidisciplinary teams to build impactful digital products.
 
-## Core Strengths
-
-- Adaptability to new technologies and development environments
-- Strong problem-solving and analytical thinking
-- Fast learner with a practical mindset
-- User Interface and User Experience oriented
-- Clean, maintainable, and scalable code
-- Collaborative team player focused on shared goals
+I'm a fast learner who adapts quickly to new technologies and enjoys continuously improving both technically and professionally.
 
 ---
 
-## Tech Stack
+# Education
+
+🎓 **Full Stack Developer 3.0**  
+**Soy Henry**  
+2026
+
+🎓 **Professional Technician in Computer Systems Support**  
+**Corporación Unificada Nacional de Educación Superior (CUN)**  
+2024 – 2025
+
+---
+
+# Core Strengths
+
+- Adaptability and continuous learning
+- UI & User Experience mindset
+- Analytical thinking and problem solving
+- Clean and maintainable code
+- Team collaboration
+- Frontend architecture awareness
+- Attention to detail
+
+---
+
+# Tech Stack
 
 ### Frontend
 
@@ -70,63 +89,64 @@ I learn quickly, adapt easily to new technologies and environments, and continuo
 
 ## 🌍 TravelGo
 
-**Multi-Currency Digital Wallet for Travelers**
+### Multi-Currency Digital Wallet
 
-A collaborative Full Stack application designed to help travelers manage multiple currencies through a modern and responsive interface.
+A collaborative Full Stack application developed for travelers to manage multiple currencies through a secure, modern, and responsive interface.
 
 ### My Contributions
 
-- Designed and developed the public landing experience.
-- Implemented responsive navigation, sidebar, and footer.
-- Improved the project's CSS organization by restructuring styles for better scalability and maintainability.
-- Collaborated using Git and GitHub throughout the development lifecycle.
+- Designed and developed the public landing page.
+- Built responsive navigation, sidebar, and footer.
+- Improved the CSS architecture by reorganizing styles into a more scalable structure.
+- Collaborated with the development team using Git and GitHub.
+- Enhanced maintainability by reducing style conflicts and improving project organization.
 
-**Technologies**
+**Tech Stack**
 
 React • TypeScript • CSS • Vite
-
-**Live Demo**
-
-https://travelgo-pink.vercel.app/
 
 **Repository**
 
 https://github.com/TravelGo-app/frontend
 
+**Live Demo**
+
+https://travelgo-pink.vercel.app/
+
 ---
 
 ## 🛒 Buy
 
-**Full Stack E-Commerce Platform**
+### Full Stack E-Commerce Platform
 
-An individual project featuring authentication, product management, secure image uploads, protected routes, and a responsive shopping experience.
+A complete e-commerce application developed individually featuring authentication, administration, secure image uploads, and responsive shopping experiences.
 
 ### Highlights
 
-- Complete Frontend and application architecture.
+- Designed and developed the complete application.
 - Firebase Authentication.
 - Google OAuth.
-- Administrative Dashboard.
 - Product CRUD.
-- AWS S3 Secure Image Upload.
+- Administrative Dashboard.
+- Secure image upload with AWS S3.
 - Protected Routes.
-- Responsive Design.
+- Mobile-first responsive design.
 
-**Technologies**
+**Tech Stack**
 
 React • TypeScript • Firebase • AWS S3
-
-**Live Demo**
-
-https://proyecto-m5-emanuel-florez.vercel.app/
 
 **Repository**
 
 https://github.com/Emanuel-Melo/ProyectoM5_EmanuelFlorez
 
+**Live Demo**
+
+https://proyecto-m5-emanuel-florez.vercel.app/
+
 ---
 
-## Current Focus
+# Current Focus
 
 - Advanced React Development
 - UI Engineering
@@ -137,13 +157,13 @@ https://github.com/Emanuel-Melo/ProyectoM5_EmanuelFlorez
 
 ---
 
-## Career Goal
+# Career Goal
 
-To grow as a UI Engineer by building scalable digital products that combine intuitive design, clean architecture, and high-performance frontend development while contributing to innovative teams and impactful user experiences.
+To become a UI Engineer capable of building scalable digital products that combine clean architecture, modern design, and exceptional user experiences while contributing to innovative international teams.
 
 ---
 
-## GitHub Statistics
+# GitHub Stats
 
 <p align="center">
 
@@ -155,9 +175,9 @@ To grow as a UI Engineer by building scalable digital products that combine intu
 
 ---
 
-## Let's Connect
+# Let's Connect
 
-📍 Bogotá, Colombia
+📍 **Bogotá, Colombia**
 
 📧 **Email**
 
@@ -167,10 +187,14 @@ To grow as a UI Engineer by building scalable digital products that combine intu
 
 https://www.linkedin.com/in/emanuel-josé-melo-flórez-308a723b3
 
+🐙 **GitHub**
+
+https://github.com/Emanuel-Melo
+
 ---
 
 <div align="center">
 
-### *"Building interfaces that connect design, technology, and user experience."*
+### *"Building interfaces that connect design, technology, and exceptional user experiences."*
 
 </div>
