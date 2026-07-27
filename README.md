@@ -4,154 +4,173 @@
 
 <div align="center">
 
-# Hi, I'm Emanuel José Melo Flórez 👋
+# Emanuel José Melo Flórez
 
-### UI Developer • Frontend Developer • Full Stack Developer
+### UI Developer • Frontend Developer
 
-**Building modern web experiences through clean code, thoughtful design, and user-centered solutions.**
+**Building modern web experiences through clean architecture, thoughtful design, and user-centered solutions.**
 
 [LinkedIn](https://www.linkedin.com/in/emanuel-josé-melo-flórez-308a723b3) •
-[Portfolio](#) •
 [Email](mailto:emanuelmelowork16@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **UI & Frontend Developer** from Bogotá, Colombia, passionate about understanding how web technologies work and transforming ideas into intuitive, modern, and scalable digital experiences.
+I'm a **UI Developer** and **Frontend Developer** based in Bogotá, Colombia, passionate about understanding how web technologies work and transforming ideas into intuitive, scalable, and high-quality digital experiences.
 
-I enjoy building interfaces that combine functionality, performance, and design while continuously improving my technical skills through real-world projects.
+I enjoy building interfaces where design, functionality, and performance work together seamlessly. Beyond writing code, I'm interested in creating maintainable architectures, improving user experience, and collaborating with teams to deliver meaningful products.
 
-My goal is to contribute to products that create meaningful experiences for users while growing as a software developer.
-
----
-
-## 💡 What Defines Me
-
-- 🧩 Highly adaptable to new technologies and development environments.
-- ⚡ Fast learner with a strong practical mindset.
-- 🎨 Passionate about UI, user experience, and clean interfaces.
-- 🤝 Collaborative developer who enjoys turning ideas into working products.
-- 📚 Constantly learning and improving.
+I learn quickly, adapt easily to new technologies and environments, and continuously seek opportunities to improve both technically and professionally.
 
 ---
 
-## 🛠 Tech Stack
+## Core Strengths
+
+- Adaptability to new technologies and development environments
+- Strong problem-solving and analytical thinking
+- Fast learner with a practical mindset
+- User Interface and User Experience oriented
+- Clean, maintainable, and scalable code
+- Collaborative team player focused on shared goals
+
+---
+
+## Tech Stack
 
 ### Frontend
 
-- React
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Responsive Design
-- Vite
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite" />
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database & Services
 
-- Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" />
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-# ⭐ Featured Projects
+# Featured Projects
 
 ## 🌍 TravelGo
 
-A multi-currency digital wallet designed for travelers.
+**Multi-Currency Digital Wallet for Travelers**
+
+A collaborative Full Stack application designed to help travelers manage multiple currencies through a modern and responsive interface.
 
 ### My Contributions
 
-- Developed the public landing experience.
-- Built responsive navigation and sidebar.
-- Designed reusable UI components.
-- Organized and refactored the CSS architecture.
-- Collaborated using Git and GitHub.
+- Designed and developed the public landing experience.
+- Implemented responsive navigation, sidebar, and footer.
+- Improved the project's CSS organization by restructuring styles for better scalability and maintainability.
+- Collaborated using Git and GitHub throughout the development lifecycle.
 
-**Tech**
+**Technologies**
 
 React • TypeScript • CSS • Vite
 
-🔗 Demo:
+**Live Demo**
+
 https://travelgo-pink.vercel.app/
 
-🔗 Repository:
+**Repository**
+
 https://github.com/TravelGo-app/frontend
 
 ---
 
 ## 🛒 Buy
 
-Full Stack E-commerce platform developed individually.
+**Full Stack E-Commerce Platform**
 
-### Features
+An individual project featuring authentication, product management, secure image uploads, protected routes, and a responsive shopping experience.
 
-- Firebase Authentication
-- Admin Dashboard
-- AWS S3 Image Upload
-- CRUD Products
-- Orders Management
-- Protected Routes
+### Highlights
 
-**Tech**
+- Complete Frontend and application architecture.
+- Firebase Authentication.
+- Google OAuth.
+- Administrative Dashboard.
+- Product CRUD.
+- AWS S3 Secure Image Upload.
+- Protected Routes.
+- Responsive Design.
+
+**Technologies**
 
 React • TypeScript • Firebase • AWS S3
 
-🔗 Demo:
+**Live Demo**
+
 https://proyecto-m5-emanuel-florez.vercel.app/
 
-🔗 Repository:
+**Repository**
+
 https://github.com/Emanuel-Melo/ProyectoM5_EmanuelFlorez
 
 ---
 
-# 🌱 Currently Learning
+## Current Focus
 
-- Advanced React Patterns
+- Advanced React Development
 - UI Engineering
 - Frontend Architecture
 - Artificial Intelligence Integration
 - Performance Optimization
+- Design Systems
 
 ---
 
-# 🎯 Career Goal
+## Career Goal
 
-To become a UI Engineer capable of building high-quality web products that combine technology, performance, and exceptional user experiences.
+To grow as a UI Engineer by building scalable digital products that combine intuitive design, clean architecture, and high-performance frontend development while contributing to innovative teams and impactful user experiences.
 
 ---
 
-# 📫 Let's Connect
+## GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Melo&show_icons=true&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Melo&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+## Let's Connect
 
 📍 Bogotá, Colombia
 
-📧 emanuelmelowork16@gmail.com
+📧 **Email**
 
-💼 LinkedIn
+**emanuelmelowork16@gmail.com**
+
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/emanuel-josé-melo-flórez-308a723b3
-
-🐙 GitHub
-
-https://github.com/Emanuel-Melo
 
 ---
 
 <div align="center">
 
-*"I believe great interfaces are built by understanding both technology and the people who use it."*
+### *"Building interfaces that connect design, technology, and user experience."*
 
 </div>
